@@ -1,0 +1,10 @@
+package Exercise7;
+
+public interface IPerson {
+
+    void addPerson();
+
+    void updatePerson(String id);
+
+    void displayInfo();
+}
